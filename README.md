@@ -5,7 +5,7 @@ A project initially developed as a help to data analysis related work (standard 
 Each column of the dataset represents a particular object's varying magnitude(some parameter) over a period time. All the columns of the dataset are representative of different such objects. The last two columns represent the date-time encoded as float and temperature for the object.
 
 The processes before the ensemble operations are:
- * Dividing the dataset row-wise in groups of `a=5` rows
+ * Dividing the dataset row-wise in groups of `a = 5` rows
  * Median of each group of `a` rows.
  * Transformed matrix of all `a` rows from the original dataset
 	
