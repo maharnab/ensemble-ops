@@ -9,7 +9,7 @@ The processes before the ensemble operations are:
  * Median of each group of `a` rows.
  * Transformed matrix of all `a` rows from the original dataset
 	
-Ensemble operations excluding the last columns:
+Ensemble operations excluding the last two columns:
  * `matc_row_avg ->` transformed matrix row-wise average
  * `matc_col_avg ->` transformed matrix column-wise average
  * `matdd        ->` difference between `matc_row_avg` & `matc_col_avg` 
