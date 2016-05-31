@@ -1,6 +1,6 @@
 # ensemble-ops
 
-A project initially developed as a help to data analysis related work (standard deviation of a dataset `->` 2D-array) requiring ensemble operations [for a friend], using the `Numpy` library of Python.
+A project initially developed as an attempt to data analysis (standard deviation of a dataset `->` 2D-array) requiring ensemble operations [for a friend], using the `Numpy` library of Python. Time & memory constraint was not an issue so the code is not optimized to its best.
 
 ## Getting started
 The `new_input.txt` contains a dataset. Can be replaced with data formats other than `.txt`. `Numpy` library is a requirement to read the dataset in to a matrix.
@@ -23,3 +23,9 @@ Ensemble operations excluding the last two columns:
  * `matg_sq 	 ->` square of `matg`
  * `matv_col_avg ->` `matg_sq` matrix column-wise average
  * `sd 		 ->` standard deviation of `matv_col_avg` 
+
+## License
+None. Feel free use as is or with modifications. 
+
+##PS
+If it is of any help to you & wishe to use it for any purpose or contribute to the project, I can optimize the code or add more info as required. 
