@@ -27,5 +27,4 @@ Ensemble operations excluding the last two columns:
 ## License
 None. Feel free use as is or with modifications. 
 
-###PS
-If it is of any help to you & wishe to use it for any purpose or contribute to the project, I can optimize the code or add more info as required. 
+####### PS: If it is of any help & wish to use it for any purpose or contribute to the project, I can optimize the code or add more info as required. 
