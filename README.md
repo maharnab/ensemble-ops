@@ -25,6 +25,6 @@ Ensemble operations excluding the last two columns:
  * `sd 		 ->` standard deviation of `matv_col_avg` 
 
 ## License
-None. Feel free use as is or with modifications. 
+None. Feel free to use as is or modified at your own risk.
 
-####### PS: If it is of any help & wish to use it for any purpose or contribute to the project, I can optimize the code or add more info as required. 
+####### PS: If it is of any help & wish to use it for any purpose or contribute to the project, the code can be optimized or supplied with more info as required. 
