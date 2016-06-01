@@ -1,6 +1,6 @@
 # ensemble-ops
 
-A project initially developed as an attempt to data analysis (standard deviation of a dataset `->` 2D-array) requiring ensemble operations [for a friend], using the `Numpy` library of Python. Time & memory constraint was not an issue so the code is not optimized to its best.
+A project initially developed as an attempt to data analysis (standard deviation of a dataset `->` 2D-array) requiring ensemble operations, using the `Numpy` library of Python. Time & memory constraint was not an issue so the code is not optimized to its best.
 
 ## Getting started
 The `new_input.txt` contains a dataset. Can be replaced with data formats other than `.txt`. `Numpy` library is a requirement to read the dataset in to a matrix.
